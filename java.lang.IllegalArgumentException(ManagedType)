@@ -1,0 +1,9 @@
+ Caused by: java.lang.IllegalArgumentException: 
+Failed to create query for method public abstract java.util.
+List com.example.demo.CustomerRepository.findByName(java.lang.String)!
+ Unable to locate Attribute  with the the given name [name] on this ManagedType
+ [com.example.demo.Customers]
+ 
+ 
+ 
+ 
